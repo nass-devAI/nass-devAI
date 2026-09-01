@@ -11,11 +11,6 @@ I can work on both simple automations and more advanced multi-step systems using
 
 I'm available for freelance projects, workflow debugging, API integrations, CRM automation and custom business automation.
 
-## Tools & Technologies
-
-...
-
-
 ---
 
 ## 🔧 What I do
