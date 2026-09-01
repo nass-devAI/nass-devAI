@@ -1,4 +1,20 @@
+
+# Hi, I'm Nass 👋
+
 Passionate about **automation** and **no-code / low-code**, I build smart workflows that do the work for you.
+
+Automation / No-Code / Low-Code enthusiast focused on building useful business workflows.
+
+I build practical automations that help businesses save time, reduce repetitive tasks and improve their workflows.
+
+I can work on both simple automations and more advanced multi-step systems using n8n, APIs, webhooks and AI tools.
+
+I'm available for freelance projects, workflow debugging, API integrations, CRM automation and custom business automation.
+
+## Tools & Technologies
+
+...
+
 
 ---
 
