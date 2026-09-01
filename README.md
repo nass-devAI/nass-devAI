@@ -1,9 +1,7 @@
 
-# Hi, I'm Nass 👋
+Hi, I'm Nass 👋
 
-Passionate about **automation** and **no-code / low-code**, I build smart workflows that do the work for you.
-
-Automation / No-Code / Low-Code enthusiast focused on building useful business workflows.
+Passionate about automation and no-code / low-code, I build smart workflows that do the work for you.
 
 I build practical automations that help businesses save time, reduce repetitive tasks and improve their workflows.
 
